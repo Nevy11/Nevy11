@@ -1,7 +1,8 @@
-- \f Hi, I’m @Nevy11
-- 👀 I’m interested in Artificial intelligence with rust
-- 🌱 I’m currently learning mobile apps development
-- 💞️ I’m looking to collaborate on developing a world changing project
+      NEVY11😎👑
+- 👉 Hi, I’m @Nevy11
+- 👀 Interested in Artificial intelligence with rust
+- 🌱 Currently learning mobile apps development
+- 💞️ Looking to collaborate on developing a world changing project
 - 📫 How to reach me `smongare2003@gmail.com`
 - 😄 Pronouns: He
 
