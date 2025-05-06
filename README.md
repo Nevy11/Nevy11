@@ -1,10 +1,26 @@
-👋 Hi, I’m Stephen Mainda (@Nevy11)
+### 👋 Hi, I’m Stephen Mainda (Nevy11)
 
-🎯 Passionate about building intelligent systems using Rust and Python  
-🤖 Currently exploring AI, Machine Learning, and Mobile App Development  
-💡 Open to collaborating on impactful open-source or research projects  
-📬 Reach me at: smongare2004@gmail.com  
-🔧 Tech I love: Rust, Django, PyTorch, Actix Web, Android
+💻 Computer Science student at Laikipia University | Backend & AI Developer  
+🚀 Passionate about building intelligent systems with Rust, Python, and modern frameworks  
+📱 Currently learning mobile app development and expanding into full-stack solutions  
+🧠 Strong interest in artificial intelligence, machine learning, and open-source development  
+🎮 Founder of a Cyber Café & PS4 Hub | Tech entrepreneur and hands-on problem solver  
+🌍 Eager to collaborate on world-changing projects and research-driven innovations  
+📬 Reach me: smongare2004@gmail.com
+
+---
+
+### ⚒️ Tools & Tech I Use:
+
+- 🐍 Python, 🦀 Rust, TypeScript
+- 🧠 PyTorch, TensorFlow, Hugging Face Transformers
+- 🌐 Django, Actix Web, Angular
+- 🖥️ OpenCV, Linux, GitHub
+- 📱 Android Development (Kotlin/Flutter in progress)
+
+---
+
+Let's build the future—one line of code at a time.
 
 <!---
 Nevy11/Nevy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
