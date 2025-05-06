@@ -1,10 +1,10 @@
-      NEVY11😎👑
-- 👉 Hi, I’m @Nevy11
-- 👀 Interested in Artificial intelligence with rust
-- 🌱 Currently learning mobile apps development
-- 💞️ Looking to collaborate on developing a world changing project
-- 📫 How to reach me `smongare2003@gmail.com`
-- 😄 Pronouns: He
+👋 Hi, I’m Stephen Mainda (@Nevy11)
+
+🎯 Passionate about building intelligent systems using Rust and Python  
+🤖 Currently exploring AI, Machine Learning, and Mobile App Development  
+💡 Open to collaborating on impactful open-source or research projects  
+📬 Reach me at: smongare2004@gmail.com  
+🔧 Tech I love: Rust, Django, PyTorch, Actix Web, Android
 
 <!---
 Nevy11/Nevy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
