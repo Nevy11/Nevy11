@@ -11,7 +11,7 @@
 ---
 
 ### ⚒️ Tools & Tech I Use:
-
+- 💻 Cyber security 
 - 🐍 Python, 🦀 Rust, TypeScript
 - 🧠 PyTorch, TensorFlow, Hugging Face Transformers
 - 🌐 Django, Actix Web, Angular
