@@ -9,14 +9,14 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevy11&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevy11&layout=compact&theme=tokyonight)
 
 ---
-
+-->
 ### ⚒️ Tools & Tech I Use:
 - 💻 Cyber security 
 - 🐍 Python, 🦀 Rust, TypeScript
