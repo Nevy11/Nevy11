@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Stephen Mainda (Nevy11)
 
-### 💻 Computer Science Student @ Laikipia University | Full-Stack & Systems Engineer | AI Developer
-🚀 I build high-performance distributed backends, real-time reactive frontends, and intelligent machine learning systems. When I'm not writing code, I run **Royal Cyber** (a technology and gaming ecosystem hub) or handle data annotation and software development architectures.
+### 🎓 Computer Science Graduate (Class of 2026) | Software Dev & Data Annotation @ Lish AI Labs
+🚀 I design high-performance distributed backends, real-time reactive frontends, and intelligent machine learning systems. Currently wrapping up my industrial attachment at **Lish AI Labs** while counting down to my formal graduation from Laikipia University this December. 
+
+When I'm not optimizing codebases, I operate **Royal Cyber** (a technology & gaming hub) or dive deep into open-source architecture.
 
 ---
 
@@ -28,7 +30,7 @@
 
 *   **[Mental Health Diary Backend](https://github.com/Nevy11/Mental-Health-Diary-backend) (Rust)**: An ultra-low memory footprint, high-concurrency audio processing server built with Actix-web and PostgreSQL (Diesel). Implements high-speed binary audio ingestion streams to handle asynchronous automated transcriptions via dedicated endpoints (`/transcribe`).
 *   **[fpredict](https://github.com/Nevy11/fpredict) (Python & ML)**: A private predictive analytical match engine tracking English Premier League fixtures. Utilizes historical sports metrics, expected goals (xG) calculations, and feature engineering pipelines to model upcoming fixture sequences.
-*   **[TherapistGPT Engine](https://github.com/Nevy11/therapistGpt) (Python & Django)**: A specialized rest API layer hosting fine-tuned deep learning models built on TensorFlow to execute real-time speech emotion feature classification and cognitive counseling evaluation text states.
+*   **[TherapistGPT Engine](https://github.com/Nevy11/therapistGpt) (Python & Django)**: A specialized REST API layer hosting fine-tuned deep learning models built on TensorFlow to execute real-time speech emotion feature classification and cognitive counseling evaluation text states.
 
 ---
 
@@ -44,13 +46,15 @@
 
 ---
 
-### 🎯 Core Commitments & Professional Background
+### 🎯 Current Focus & Professional Track
 
-*   **Full-Stack Optimization:** Passionate about server-side rendering (SSR), reactive signals, state hydration, and resolving complex Postgres RPC schema mismatches.
-*   **Leadership & Advisory:** Executive committee technical advisor for non-profit digital transformation systems.
-*   **Hands-on Problem Solving:** Balancing raw software architecture with the real-world operational challenges of managing bare-metal environments and network infrastructures at Royal Cyber.
+*   **Industry Attachment (Lish AI Labs):** Bridging the gap between theory and scale by working on real-world software systems and rigorous data annotation engineering pipelines.
+*   **Full-Stack Optimization:** Obsessed with server-side rendering (SSR), reactive signals, state hydration, and resolving complex Postgres RPC schema mismatches.
+*   **The Upcoming Milestone:** Officially graduating with a B.Sc. in Computer Science in December 2026. Ready to take on high-impact backend, systems, or AI engineering roles.
 
 ```text
-┌──(nevy11㉿github)-[~]
-└─$ ssh -T git@github.com/Nevy11
-Welcome to the future—one optimized line of code at a time.
+┌──(nevy11㉿lish-ai-labs)-[~]
+└─$ status --academic
+Coursework: COMPLETE ✅
+Current: Software Engineering Attachment 🚀
+Next Milestone: Graduation (Dec 2026) 🎓
